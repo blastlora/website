@@ -6,7 +6,7 @@
     <div class="flex-shrink lg:max-w-lg xl:max-w-xl mb-4 lg:mb-0">
       <h2>Stay informed</h2>
       <p class="mt-2 mr-2">
-        Sign up for the blastnft protocol Weekly newsletter for the latest on
+        Sign up for the blastlora protocol Weekly newsletter for the latest on
         releases, upcoming developments, community events, and more.
       </p>
     </div>

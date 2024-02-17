@@ -1,11 +1,11 @@
 <template>
   <div>
     <seo-tags
-      title="BlastNFT Protocol the basic rules for building the NFT world"
-      description="The blastnft protocol is a NFT synthesis and splitting protocol, which combines chaotic NFTs with a simple rule."
+      title="BlastLora Protocol the basic rules for building the NFT world"
+      description="The blastlora protocol is a NFT synthesis and splitting protocol, which combines chaotic NFTs with a simple rule."
     />
     <StarfieldHero
-      title="BlastNFT Protocol the basic rules for building the NFT world"
+      title="BlastLora Protocol the basic rules for building the NFT world"
     >
       <h2 class="text-center">
         through combination and splitting,
@@ -31,10 +31,10 @@
     <section id="why" class="grid-margins py-20 sm:py-36">
       <div class="text-center mb-8 sm:mb-20">
         <h2 class="font-display mb-3">
-          The NFT of tomorrow needs blastnft protocol today
+          The NFT of tomorrow needs blastlora protocol today
         </h2>
         <p class="text-base sm:text-lg">
-          The goal of the blastnft protocol is to establish an order in the NFT
+          The goal of the blastlora protocol is to establish an order in the NFT
           world.
         </p>
       </div>
@@ -47,7 +47,7 @@
             Today's NFT is chaotic and disorderly
           </h3>
           <p>
-            BlastNFT Protocol will change the current status quo and organize
+            BlastLora Protocol will change the current status quo and organize
             through basic rules to communicate with a richer NFT building, just
             like 1+1=2 in the physical world. With basic rules, there will be a
             richer form.

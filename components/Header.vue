@@ -47,7 +47,7 @@
           class="w-10 h-10 fill-current"
           @click="() => onLinkClick({ link: '/', text: 'Homepage (logo)' })"
         />
-        <span class="pl-2 font-extrabold">BlastNFT Protocol</span>
+        <span class="pl-2 font-extrabold">BlastLora Protocol</span>
       </Link>
       <nav class="hidden md:flex justify-end w-full max-w-lg">
         <Link
@@ -77,8 +77,8 @@ import Link from './Link';
 import Icon from './Icon.vue';
 
 const headerLinks = [
-  { text: 'App', link: 'https://app.blast-nft.xyz' },
-  { text: 'Github', link: 'https://github.com/blastnft' },
+  { text: 'App', link: 'https://app.blastlora.xyz' },
+  { text: 'Github', link: 'https://github.com/blastlora' },
   // { text: 'Discord', link: 'https://discord.gg/PMQsgaBwMX' },
   // { text: 'Docs', link: 'https://docs.ipfs.io/' },
   // { text: 'Team', link: '/team' },

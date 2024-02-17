@@ -18,7 +18,7 @@ export default {
   },
   head() {
     return {
-      title: 'Team | BlastNFT Protocol',
+      title: 'Team | BlastLora Protocol',
     };
   },
 };

@@ -1,4 +1,4 @@
-# BlastNFT Protocol (blast-nft.xyz)
+# BlastLora Protocol (blastlora.xyz)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg)](https://protocol.ai)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?)](http://ipfs.io/)

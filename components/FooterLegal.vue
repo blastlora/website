@@ -16,11 +16,11 @@
       ©
       <a
         class="text-blueGreenLight hover:underline"
-        href="https://blast-nft.xyz/"
+        href="https://blastlora.xyz/"
         target="_blank"
         @click="onClick"
       >
-        BlastNFT Protocol
+        BlastLora Protocol
       </a>
       <!-- | Except as
       <a

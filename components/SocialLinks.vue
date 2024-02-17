@@ -24,7 +24,7 @@ import Icon from './Icon';
 const socialLinks = [
   {
     text: 'Github',
-    link: 'https://github.com/blastnft/',
+    link: 'https://github.com/blastlora/',
     icon: 'github-icon',
   },
   {
